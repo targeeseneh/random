@@ -1,11 +1,13 @@
 body {
-    font-family: Arial, sans-serif;
-   background-image: url(quote-2.jpeg);
-   background-repeat: no-repeat;
-   margin: 0;
-   padding: 20px;
-   width: 100%;
-   height: 500;
+   font-family: cursive, Arial, sans-serif;
+  background-image: url(quote-2.jpeg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  margin: 0;
+  padding: 20px;
+  width: 100%;
+  height: 100vh;
   }
   
   .quotes {

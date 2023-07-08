@@ -1,5 +1,5 @@
 body {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Arial, sans-serif;
    background-image: url(quote-2.jpeg);
    background-repeat: no-repeat;
    margin: 0;
@@ -20,7 +20,7 @@ body {
   }
   
   .quotes p {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: Arial, sans-serif;
   font-size: 50px;
   margin: 0;
   padding: 0;
